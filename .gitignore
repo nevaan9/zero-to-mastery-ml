@@ -12,3 +12,4 @@ env
 # Model files
 *.pkl
 *.joblib
+/conda-env
